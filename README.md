@@ -34,6 +34,7 @@
 [![Twitter](https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=FFFFFF)](https://x.com/BurakCanKART "Twitter")
 [![Facebook](https://img.icons8.com/?size=100&id=118467&format=png&color=FFFFFF)](https://www.facebook.com/burakcan.kart "Facebook")
 [![Instagram](https://img.icons8.com/?size=100&id=32309&format=png&color=FFFFFF)](https://www.instagram.com/burakcancard/ "Instagram") <br>
+[![Medium](https://img.icons8.com/?size=100&id=InFPHXxpBdjV&format=png&color=000000)](https://medium.com/@burakcankart "Medium")
 [![HackerRank](https://img.icons8.com/?size=100&id=mT2bzIQRdfpR&format=png&color=000000)](https://www.hackerrank.com/profile/bucaka53_bck "HackerRank")
 <a href="https://exercism.org/profiles/CanCard/badges" title="Exercism">
   <img src="https://assets.exercism.org/assets/icons/exercism-face-gradient-31ce1b1261c54ead735cf687a2dc8549b3d00bb1.svg" 
