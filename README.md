@@ -26,6 +26,10 @@
 - NLTK
 - ...
 
+## 📦To see my Kaggle Data Science path quickly, please click on this button:
+[![Data Science Shortcut](https://img.icons8.com/?size=100&id=6hPbJUZfMZgo&format=png&color=000000)](https://github.com/CanCard/veri-bilimi-ve-yapay-zeka/tree/main/Kaggle)
+
+
 ## 🌐 More
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://linkedin.com/in/burakcankart "It's me") 
