@@ -40,14 +40,3 @@
   <img src="https://assets.exercism.org/assets/icons/exercism-face-gradient-31ce1b1261c54ead735cf687a2dc8549b3d00bb1.svg" 
        alt="Örnek Resim" width="100" height="100">
 </a>
-
-## 📌 Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=CanCard&show_icons=true&theme=radical "It's not as good as you expected—I know that, too. ☺ &#10;But I haven't used this platform much so far; I was more interested in Kaggle.")
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanCard)](https://github.com/CanCard/github-readme-stats "Actually %99 Python. &#10;I prefer to use Jupyter Notebook instead of the Python app.")
-
-## ✅ Last Words
-
-> I hope this makes enough to you, to understand how I am obsessed with the future of AI. 🤖 <br>
-
-![GIF Açıklaması](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e472lzpicxrvg0ziz6gbm1ljtfs1l3m88iidatrofym&ep=v1_gifs_search&rid=giphy.gif&ct=g "All of this effort for our future 🎯")
