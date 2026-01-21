@@ -3,6 +3,10 @@
 
 ![Profil Resmim](https://raw.githubusercontent.com/CanCard/CanCard/refs/heads/main/I_want_to_follow_these_paths.png "Who.am.i ☺")
 
+## 📦To see my Kaggle Data Science projects path quickly, please click on this button:
+[![Data Science Shortcut](https://img.icons8.com/?size=100&id=6hPbJUZfMZgo&format=png&color=000000)](https://github.com/CanCard/veri-bilimi-ve-yapay-zeka/tree/main/Kaggle)
+
+
 ## ♾️ Interested & Learning
 
 - Machine learning 📊
@@ -26,8 +30,6 @@
 - NLTK
 - ...
 
-## 📦To see my Kaggle Data Science projects path quickly, please click on this button:
-[![Data Science Shortcut](https://img.icons8.com/?size=100&id=6hPbJUZfMZgo&format=png&color=000000)](https://github.com/CanCard/veri-bilimi-ve-yapay-zeka/tree/main/Kaggle)
 
 
 ## 🌐 More
